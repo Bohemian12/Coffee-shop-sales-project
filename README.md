@@ -45,7 +45,6 @@ The goal of this project is to:
 
 ## 📷 Project Screenshot
 
-Example:  
 ![Dashboard Preview](coffee-shop-sales-dashboard.png)
 
 ---
