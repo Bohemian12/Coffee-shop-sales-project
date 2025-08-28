@@ -31,7 +31,7 @@ The goal of this project is to:
 ---
 
 ## 📑 Deliverables
-- **Excel File** containing cleaned dataset, pivot tables, and dashboards.  
+- **Excel File** containing dashboard.  
 - Interactive **Dashboard** summarizing sales performance.  
 
 ---
@@ -43,11 +43,10 @@ The goal of this project is to:
 
 ---
 
-## 📷 Project Screenshots
-(Add screenshots of your Excel dashboard here once uploaded in the repo under `/images` folder)
+## 📷 Project Screenshot
 
 Example:  
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](coffee-shop-sales-dashboard.png)
 
 ---
 
